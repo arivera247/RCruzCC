@@ -2,13 +2,25 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "r-cruz-carpentry-and-construction",
     "description": "",
-    "home_page_url": "https://ariver247.github.io/RCruzCC",
-    "feed_url": "https://ariver247.github.io/RCruzCC/feed.json",
+    "home_page_url": "https://arivera247.github.io/RCruzCC",
+    "feed_url": "https://arivera247.github.io/RCruzCC/feed.json",
     "user_comment": "",
-    "icon": "https://ariver247.github.io/RCruzCC/media/website/Untitled-8.jpg",
     "author": {
         "name": "Rigoberto Cruz"
     },
     "items": [
+        {
+            "id": "https://arivera247.github.io/RCruzCC/first-post.html",
+            "url": "https://arivera247.github.io/RCruzCC/first-post.html",
+            "title": "First Post",
+            "image": "https://arivera247.github.io/RCruzCC/media/posts/5/construction-646918_1920.jpg",
+            "author": {
+                "name": "Rigoberto Cruz"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-09T23:58:28-04:00",
+            "date_modified": "2018-09-09T23:58:28-04:00"
+        }
     ]
 }

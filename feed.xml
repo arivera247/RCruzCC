@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>r-cruz-carpentry-and-construction</title>
-    <link href="https://ariver247.github.io/RCruzCC/feed.xml" rel="self" />
-    <link href="https://ariver247.github.io/RCruzCC" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <link href="https://arivera247.github.io/RCruzCC/feed.xml" rel="self" />
+    <link href="https://arivera247.github.io/RCruzCC" />
+    <updated>2018-09-10T00:00:04-04:00</updated>
     <author>
         <name>Rigoberto Cruz</name>
     </author>
-    <id>https://ariver247.github.io/RCruzCC</id>
+    <id>https://arivera247.github.io/RCruzCC</id>
 
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Rigoberto Cruz</name>
+        </author>
+        <link href="https://arivera247.github.io/RCruzCC/first-post.html"/>
+        <id>https://arivera247.github.io/RCruzCC/first-post.html</id>
+
+        <updated>2018-09-09T23:58:28-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
